@@ -1,6 +1,6 @@
 Name:		texlive-nicematrix
-Version:	65021
-Release:	2
+Version:	69034
+Release:	1
 Summary:	Improve the typesetting of mathematical matrices with PGF
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/nicematrix
