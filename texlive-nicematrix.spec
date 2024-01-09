@@ -1,5 +1,5 @@
 Name:		texlive-nicematrix
-Version:	69126
+Version:	69275
 Release:	1
 Summary:	Improve the typesetting of mathematical matrices with PGF
 Group:		Publishing
