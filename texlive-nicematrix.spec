@@ -3,7 +3,7 @@ Version:	72084
 Release:	1
 Summary:	Improve the typesetting of mathematical matrices with PGF
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/nicematrix
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/nicematrix
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/nicematrix.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/nicematrix.doc.r%{version}.tar.xz
