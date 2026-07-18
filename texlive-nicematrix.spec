@@ -1,9 +1,9 @@
 %global tl_name nicematrix
-%global tl_revision 79473
+%global tl_revision 79680
 
 Name:		texlive-%{tl_name}
 Epoch:		1
-Version:	7.10a
+Version:	7.11
 Release:	%{tl_revision}.1
 Summary:	Improve the typesetting of matrices and tabulars with PGF
 Group:		Publishing
